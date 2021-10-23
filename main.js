@@ -3,7 +3,8 @@ const linkSocialMedia = {
   facebook: 'diego.gomes.06',
   youtube: 'channel/UCvsFmQ2iMTYQt-N95B8k-Pw',
   instagram: 'diegohvaz',
-  twitter: 'diegohvaaz'
+  twitter: 'diegohvaaz',
+  linkedin: 'in/diêgo-vaz-gomes-ba829632'
 }
 
 function changeSocialMediaLinks() {
