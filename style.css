@@ -56,6 +56,11 @@ main {
   height: 11.5rem;
   object-fit: cover;
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 76%, 0 25%);
+  transition: all 0.2s ease-in-out;
+}
+
+.avatar > img:hover {
+  transform: scale3d(1.2, 1.2, 1.2);
 }
 
 .footer {
